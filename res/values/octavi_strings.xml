@@ -70,4 +70,9 @@
     <string name="desktop_show_labels">Show icon labels on desktop</string>
     <string name="drawer_show_labels">Show icon labels in drawer</string>
 
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">At A Glance</string>
+    <string name="show_quickspace_summary">Show at the top of your Home screen</string>
+    <string name="abbrev_wday_month_day_no_year" translatable="false">EEEEMMMd</string>
+
 </resources>
