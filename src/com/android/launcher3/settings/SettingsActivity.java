@@ -54,6 +54,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceFragment;
 import androidx.preference.PreferenceFragment.OnPreferenceStartFragmentCallback;
 import androidx.preference.PreferenceFragment.OnPreferenceStartScreenCallback;
+import androidx.preference.Preference.OnPreferenceChangeListener;
 import androidx.preference.PreferenceGroup.PreferencePositionCallback;
 import androidx.preference.PreferenceScreen;
 import androidx.recyclerview.widget.RecyclerView;
@@ -122,10 +123,11 @@ public class SettingsActivity extends Activity
     public void onSharedPreferenceChanged(SharedPreferences sharedPreferences, String key) {
         if (Utilities.KEY_DT_GESTURE.equals(key)) {
                 LauncherAppState.getInstanceNoCreate().setNeedsRestart();
+        } else if (Utilities.ICON_SIZE.equals(key)) {
+                LauncherAppState.getInstanceNoCreate().setNeedsRestart();
         } else if (Utilities.SHOW_WORKSPACE_GRADIENT.equals(key) || Utilities.SHOW_HOTSEAT_GRADIENT.equals(key)) {
             LauncherAppState.getInstanceNoCreate().setNeedsRestart();
         }
-
     }
 
     public interface OnResumePreferenceCallback {
