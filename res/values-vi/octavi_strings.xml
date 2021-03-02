@@ -18,44 +18,44 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General -->
-    <string name="settings_title">Settings</string>
+    <string name="settings_title">Cài đặt</string>
     <!-- Categories -->
-    <string name="home_category_title">Home screen</string>
-    <string name="home_category_summary">Set Google now panel and more</string>
-    <string name="icons_category_title">Icons</string>
-    <string name="icons_category_summary">Set icon shape and more</string>
-    <string name="app_drawer_category_title">App drawer</string>
-    <string name="app_drawer_category_summary">Customize your app drawer</string>
-    <string name="misc_category_title">Miscellaneous</string>
-    <string name="misc_category_summary">Other options</string>
-    <string name="dev_options_title">Developer options</string>
-    <string name="dev_options_desc">Enable some hidden features at your own risk</string>
+    <string name="home_category_title">Màn hình chính</string>
+    <string name="home_category_summary">Đặt bảng điều khiển Google now và nhiều hơn</string>
+    <string name="icons_category_title">Biểu tượng</string>
+    <string name="icons_category_summary">Đặt hình dạng biểu tượng và hơn nữa</string>
+    <string name="app_drawer_category_title">Ngăn chứa ứng dụng</string>
+    <string name="app_drawer_category_summary">Tùy chỉnh ngăn chứa ứng dụng</string>
+    <string name="misc_category_title">Cài đặt khác</string>
+    <string name="misc_category_summary">Tùy chọn khác</string>
+    <string name="dev_options_title">Tùy chọn nhà phát triển</string>
+    <string name="dev_options_desc">Bật một số tính năng ẩn và tự chịu rủi ro</string>
     <!-- Change scrim alpha in all apps -->
-    <string name="all_apps_background_opacity_title">All apps background transparency</string>
-    <string name="all_apps_background_opacity_summary">Make the background transparent or fully opaque</string>
+    <string name="all_apps_background_opacity_title">Độ trong suốt bảng điều khiển</string>
+    <string name="all_apps_background_opacity_summary">Chỉ hiển thị văn bản kèm màu, màu nền sẽ chuyển thành trong suốt.</string>
     <!-- Suggestions -->
-    <string name="suggestion_pref_screen_title">Suggestions</string>
-    <string name="suggestion_pref_screen_desc">For All Apps &amp; Home screen suggestions</string>
+    <string name="suggestion_pref_screen_title">Đề xuất</string>
+    <string name="suggestion_pref_screen_desc">Đối với tất cả các ứng dụng &amp; Đề xuất màn hình chính</string>
     <!-- Blur radius -->
-    <string name="enable_blur_title">Enable blur</string>
-    <string name="enable_blur_summary">Make the background go out of focus</string>
-    <string name="all_apps_blur_radius_title">All apps blur radius</string>
-    <string name="all_apps_blur_radius_summary">Make the background transparent or fully opaque</string>
-    <string name="overview_blur_radius_title">Overview blur radius</string>
-    <string name="overview_blur_radius_summary">Make the background transparent or fully opaque</string>
+    <string name="enable_blur_title">Bật hiệu ứng mờ phông</string>
+    <string name="enable_blur_summary">Làm cho hậu cảnh mất nét</string>
+    <string name="all_apps_blur_radius_title">Tất cả các ứng dụng làm mờ bán kính</string>
+    <string name="all_apps_blur_radius_summary">Chỉ hiển thị văn bản kèm màu, màu nền sẽ chuyển thành trong suốt.</string>
+    <string name="overview_blur_radius_title">Bán kính mờ tổng quan</string>
+    <string name="overview_blur_radius_summary">Chỉ hiển thị văn bản kèm màu, màu nền sẽ chuyển thành trong suốt.</string>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
-    <string name="title_show_google_app">Show Google App</string>
+    <string name="title_show_google_app">Hiển thị ứng dụng Google</string>
     <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_left">When you swipe left from main Home screen</string>
+    <string name="msg_minus_one_on_left">Khi bạn vuốt sang trái tại Màn hình chính</string>
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_right">When you swipe right from main Home screen</string>
-    <string name="state_loading">Applying\u2026</string>
+    <string name="msg_minus_one_on_right">Khi bạn vuốt sang phải tại Màn hình chính</string>
+    <string name="state_loading">Đang áp dụng\u2026</string>
     <!-- Gestures -->
-    <string name="pref_dt_gesture_title">Double tap gesture</string>
-    <string name="pref_dt_gesture_summary">Double tap on empty space for screen-off</string>
-    <string name="allow_swipe_down_clearall_title">Swipe down to clear all recents</string>
-    <string name="allow_swipe_down_clearall_desc">Enable to clear all recents in the overview screen by swiping down</string>
+    <string name="pref_dt_gesture_title">Cử chỉ chạm đúp</string>
+    <string name="pref_dt_gesture_summary">Nhấn đúp vào khoảng trống để tắt màn hình</string>
+    <string name="allow_swipe_down_clearall_title">Vuốt xuống để xóa tất cả tác vụ</string>
+    <string name="allow_swipe_down_clearall_desc">Cho phép xóa tất cả các tác vụ gần đây trong màn hình tổng quan bằng cách vuốt xuống</string>
     <!-- Hide labels -->
-    <string name="desktop_show_labels">Show icon labels on desktop</string>
-    <string name="drawer_show_labels">Show icon labels in drawer</string>
+    <string name="desktop_show_labels">Hiển thị tên biểu tượng trên màn hình chính</string>
+    <string name="drawer_show_labels">Hiện tên biểu tượng nhãn trong ngăn ứng dụng</string>
 </resources>
