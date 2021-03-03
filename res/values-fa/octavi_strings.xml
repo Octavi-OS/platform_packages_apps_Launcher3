@@ -18,44 +18,44 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General -->
-    <string name="settings_title">Settings</string>
+    <string name="settings_title">تنظیمات</string>
     <!-- Categories -->
-    <string name="home_category_title">Home screen</string>
-    <string name="home_category_summary">Set Google now panel and more</string>
-    <string name="icons_category_title">Icons</string>
-    <string name="icons_category_summary">Set icon shape and more</string>
-    <string name="app_drawer_category_title">App drawer</string>
-    <string name="app_drawer_category_summary">Customize your app drawer</string>
-    <string name="misc_category_title">Miscellaneous</string>
-    <string name="misc_category_summary">Other options</string>
-    <string name="dev_options_title">Developer options</string>
-    <string name="dev_options_desc">Enable some hidden features at your own risk</string>
+    <string name="home_category_title">صفحه اصلی</string>
+    <string name="home_category_summary">تنظیم کردن پنل google now و بیشتر</string>
+    <string name="icons_category_title">آیکن‌ ها</string>
+    <string name="icons_category_summary">تنظیم شکل آیکون و بیشتر</string>
+    <string name="app_drawer_category_title">کشوی برنامه ها</string>
+    <string name="app_drawer_category_summary">شخصی سازی کشوی برنامه ها</string>
+    <string name="misc_category_title">ویژگی های بیشتر</string>
+    <string name="misc_category_summary">سایر گزینه‌ها</string>
+    <string name="dev_options_title">گزینه‌های توسعه دهنده</string>
+    <string name="dev_options_desc">بعضی از ویژگیهای پنهان را با مسئولیت خودتان فعال میکند</string>
     <!-- Change scrim alpha in all apps -->
-    <string name="all_apps_background_opacity_title">All apps background transparency</string>
-    <string name="all_apps_background_opacity_summary">Make the background transparent or fully opaque</string>
+    <string name="all_apps_background_opacity_title">پس زمینه شفاف برای برنامها</string>
+    <string name="all_apps_background_opacity_summary">پس زمینه را شفاف یا کاملا مات میکند</string>
     <!-- Suggestions -->
-    <string name="suggestion_pref_screen_title">Suggestions</string>
+    <string name="suggestion_pref_screen_title">پیشنهادات</string>
     <string name="suggestion_pref_screen_desc">For All Apps &amp; Home screen suggestions</string>
     <!-- Blur radius -->
-    <string name="enable_blur_title">Enable blur</string>
-    <string name="enable_blur_summary">Make the background go out of focus</string>
-    <string name="all_apps_blur_radius_title">All apps blur radius</string>
-    <string name="all_apps_blur_radius_summary">Make the background transparent or fully opaque</string>
+    <string name="enable_blur_title">فعالسازی بلور</string>
+    <string name="enable_blur_summary">بلور را در پس زمینه فعال میکند</string>
+    <string name="all_apps_blur_radius_title">مقدار سطح بلور در برنامه ها</string>
+    <string name="all_apps_blur_radius_summary">پس زمینه را شفاف یا کاملا مات میکند</string>
     <string name="overview_blur_radius_title">Overview blur radius</string>
-    <string name="overview_blur_radius_summary">Make the background transparent or fully opaque</string>
+    <string name="overview_blur_radius_summary">پس زمینه را شفاف یا کاملا مات میکند</string>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
-    <string name="title_show_google_app">Show Google App</string>
+    <string name="title_show_google_app">برنامه \"گوگل\" را نمایش بده</string>
     <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_left">When you swipe left from main Home screen</string>
+    <string name="msg_minus_one_on_left">هنگام کشیدن سمت چپ از صفحه اصلی</string>
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_right">When you swipe right from main Home screen</string>
+    <string name="msg_minus_one_on_right">هنگام کشیدن سمت راست از صفحه اصلی</string>
     <string name="state_loading">Applying\u2026</string>
     <!-- Gestures -->
-    <string name="pref_dt_gesture_title">Double tap gesture</string>
-    <string name="pref_dt_gesture_summary">Double tap on empty space for screen-off</string>
-    <string name="allow_swipe_down_clearall_title">Swipe down to clear all recents</string>
-    <string name="allow_swipe_down_clearall_desc">Enable to clear all recents in the overview screen by swiping down</string>
+    <string name="pref_dt_gesture_title">تنظیم فعالیت برای دوبار ضربه زدن بر روی صفحه</string>
+    <string name="pref_dt_gesture_summary">دوبار ضربه روی فضای خالی برای خاموش کردن</string>
+    <string name="allow_swipe_down_clearall_title">کشیدن رو به پایین برای بستن همه برنامه ها</string>
+    <string name="allow_swipe_down_clearall_desc">برای بستن همه برنامه ها هنگام باز بودن برنامه های اخیر یک برنامه را رو به پایین بکشید</string>
     <!-- Hide labels -->
-    <string name="desktop_show_labels">Show icon labels on desktop</string>
-    <string name="drawer_show_labels">Show icon labels in drawer</string>
+    <string name="desktop_show_labels">نشان دادن نام برنامه ها در دسکتاپ</string>
+    <string name="drawer_show_labels">نشان دادن نام برنامه ها در کشور برنامه‌ ها</string>
 </resources>
