@@ -51,92 +51,92 @@
     <string name="msg_minus_one_on_right">Khi bạn vuốt sang phải tại Màn hình chính</string>
     <string name="state_loading">Đang áp dụng\u2026</string>
     <!-- QuickSpace -->
-    <string name="show_quickspace_title">At A Glance</string>
-    <string name="show_quickspace_summary">Show at the top of your Home screen</string>
+    <string name="show_quickspace_title">Nhìn thoáng qua</string>
+    <string name="show_quickspace_summary">Hiển thị ở đầu Màn hình chính của bạn</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Welcome to Octavi-OS</string>
+    <string name="quick_event_rom_intro_welcome">Chào mừng đến với Octavi-OS</string>
     <!-- Quickspace PSA - Custom messages for the glance -->
-    <string name="quickspace_psa_title">Show a random message</string>
-    <string name="quickspace_psa_summary">Show some nice messages sometimes on At a Glance.</string>
+    <string name="quickspace_psa_title">Hiển thị một thông điệp ngẫu nhiên</string>
+    <string name="quickspace_psa_summary">Đôi khi hiển thị một số thông điệp tốt đẹp trên Xem nhanh.</string>
     <string-array name="quickspace_psa_morning">
-        <item>Good morning!</item>
-        <item>Good morning, time to rock!</item>
-        <item>What a beautiful day!</item>
-        <item>Have a nice day!</item>
-        <item>What about a small 5 minutes nap?</item>
-        <item>That\'s one way to wake up.</item>
-        <item>You should change your alarm sounds.</item>
-        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
-        <item>Let\'s get this bread.</item>
-        <item>Check the weather just in case</item>
-        <item>Feeling a bit sleepy yet</item>
-        <item>Have you looked outside yet?</item>
-        <item>Let\'s get this done.</item>
+        <item>Chào buổi sáng!</item>
+        <item>Chào buổi sáng, đến giờ quẩy rồi!</item>
+        <item>Thật là một ngày đẹp trời!</item>
+        <item>Chúc bạn một ngày tốt lành!</item>
+        <item>Một giấc ngủ ngắn 5 phút thì sao?</item>
+        <item>Đó là một cách để thức dậy.</item>
+        <item>Bạn nên thay đổi âm thanh báo thức của mình.</item>
+        <item>Có vẻ như đó là một ngày đẹp trời, phải không?</item>
+        <item>Hãy lấy bánh mì này.</item>
+        <item>Kiểm tra thời tiết cẩn thận</item>
+        <item>Cảm thấy hơi buồn ngủ</item>
+        <item>Bạn đã thử nhìn ra ngoài chưa?</item>
+        <item>Hãy hoàn thành nó.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Good night!</item>
-        <item>Sleep well!</item>
-        <item>See you tomorrow!</item>
-        <item>Sweet dreams!</item>
-        <item>Don\'t stay up too long</item>
-        <item>Have a good sleep</item>
-        <item>Get some sleep</item>
-        <item>Time to relax</item>
-        <item>Enjoy the night!</item>
-        <item>Time to charge the batteries!</item>
-        <item>Tomorrow might be a great day</item>
-        <item>Get your bones ready for tomorrow</item>
+        <item>Chúc bạn ngủ ngon!</item>
+        <item>Ngủ ngon nhé!</item>
+        <item>Hẹn gặp bạn vào ngày mai!</item>
+        <item>Chúc bạn có những giấc mơ đẹp!</item>
+        <item>Đừng ngủ quá muộn nhé!</item>
+        <item>Có một giấc ngủ ngon</item>
+        <item>Có được một giấc ngủ</item>
+        <item>Đến giờ giải lao rồi</item>
+        <item>Tận hưởng buổi tối!</item>
+        <item>Đã đến lúc sạc pin!</item>
+        <item>Ngày mai có thể là một ngày tuyệt vời</item>
+        <item>Chuẩn bị sẵn sàng cho ngày mai</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Um... good night?</item>
-        <item>It\'s a bit late now</item>
-        <item>You should fix your sleep schedule</item>
-        <item>Are you more productive at this time?</item>
+        <item>Ừm... chúc ngủ ngon?</item>
+        <item>Bây giờ hơi muộn</item>
+        <item>Bạn nên chỉnh sửa lịch ngủ của mình</item>
+        <item>Bạn có năng suất hơn vào thời điểm này?</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Ignorance is Bliss</item>
-        <item>Enjoy Octavi-OS Smoothness</item>
-        <item>Is it time to flash another update already?</item>
-        <item>Hyped about Android 10?</item>
-        <item>Oh hey, what\'s up?</item>
-        <item>Focus on your tasks</item>
-        <item>How many screenshots do you take?</item>
-        <item>Open goodness with crDroid</item>
-        <item>Spread love not havoc</item>
-        <item>Have fun!</item>
-        <item>Time for some good music</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>You need crDroid Premium to see this</item>
-        <item>Remember the Lineage of the Unicorn</item>
-        <item>Enjoy Xtended battery life</item>
-        <item>Its time to awaken</item>
-        <item>Starting from the ground zero</item>
-        <item>Stay Home, Stay Safe</item>
-        <item>Do something nice today</item>
-        <item>This is best Pixel Experience, isn\'t it?</item>
-        <item>How is everything going?</item>
-        <item>No illusions, welcome to reality!</item>
-        <item>Thank you for your support</item>
-        <item>No festival for Derps - only perfection!</item>
-        <item>One of the buildbot\'s best picks</item>
-        <item>Sanity for your Paranoia</item>
-        <item>Try Ice Cold desserts</item>
-        <item>What a lovely experience, isn\'t it?</item>
-        <item>Evolution is a myth, right?</item>
+        <item>Điếc không sợ súng</item>
+        <item>Tận hưởng sự mượt mà của Octavi-OS</item>
+        <item>Đã đến lúc flash bản cập nhật khác chưa?</item>
+        <item>Thông tin về Android 10?</item>
+        <item>Oh này, có chuyện gì thế?</item>
+        <item>Hãy tập chung vào nhiệm vụ</item>
+        <item>Bạn chụp bao nhiêu ảnh chụp màn hình?</item>
+        <item>Mở lòng tốt với crDroid</item>
+        <item>Lan tỏa tình yêu thương không tàn phá</item>
+        <item>Chúc vui vẻ!</item>
+        <item>Khoảng thời gian cho một số bản nhạc hay</item>
+        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C CÁI ĐẦU</item>
+        <item>Bạn cần crDroid Premium để xem điều này</item>
+        <item>Hãy nhớ Lineage của Unicorn</item>
+        <item>Tận hưởng thời lượng pin dài hơn</item>
+        <item>Đã đến lúc thức dậy</item>
+        <item>Bắt đầu từ con số 0</item>
+        <item>Ở nhà, Giữ an toàn</item>
+        <item>Làm điều gì đó tốt đẹp hôm nay</item>
+        <item>Đây là trải nghiệm Pixel tốt nhất, phải không?</item>
+        <item>Mọi chuyện thế nào rồi?</item>
+        <item>Không ảo tưởng, chào mừng bạn đến với thực tế!</item>
+        <item>Cảm ơn bạn đã hỗ trợ</item>
+        <item>Không có lễ hội cho Derps - chỉ có sự hoàn hảo!</item>
+        <item>Một trong những lựa chọn tốt nhất của buildbot</item>
+        <item>Hãy tỉnh táo chứ đừng kiêu ngạo</item>
+        <item>Thử món tráng miệng đá lạnh</item>
+        <item>Thật là một trải nghiệm tuyệt vời, phải không?</item>
+        <item>Tiến hóa là một huyền thoại, phải không?</item>
         <item>You are what you flash, don\'t be Potato</item>
-        <item>What\'s on your mind?</item>
-        <item>Winner Winner ....?</item>
+        <item>Bạn đang nghĩ gì?</item>
+        <item>Người chiến thắng Người chiến thắng ....?</item>
         <item>rm -rf \/</item>
     </string-array>
     <!-- QuickSpace: QuickEvent: Ambient Play -->
-    <string name="quick_event_ambient_now_playing">Now Playing</string>
-    <string name="quick_event_ambient_song_artist">%1$s by %2$s</string>
+    <string name="quick_event_ambient_now_playing">Đang phát</string>
+    <string name="quick_event_ambient_song_artist">%1$s bởi %2$s</string>
     <!-- Quickspace Now Playing -->
-    <string name="quickspace_now_playing_title">Show now playing</string>
-    <string name="quickspace_now_playing_summary">Shows the song you\'re playing on At a Glance.</string>
+    <string name="quickspace_now_playing_title">Hiện đang chơi</string>
+    <string name="quickspace_now_playing_summary">Hiển thị bài hát bạn đang phát trên mục Xem Nhanh.</string>
     <!-- Quickspace alternative view -->
-    <string name="quickspace_alternate_style_title">Use an alternative style</string>
-    <string name="quickspace_alternate_style_summary">Use a minimalistic style for At a Glance</string>
+    <string name="quickspace_alternate_style_title">Sử dụng một phong cách thay thế</string>
+    <string name="quickspace_alternate_style_summary">Sử dụng phong cách tối giản cho mục Xem nhanh</string>
     <!-- Gestures -->
     <string name="pref_dt_gesture_title">Cử chỉ chạm đúp</string>
     <string name="pref_dt_gesture_summary">Nhấn đúp vào khoảng trống để tắt màn hình</string>
