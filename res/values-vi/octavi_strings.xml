@@ -50,6 +50,14 @@
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
     <string name="msg_minus_one_on_right">Khi bạn vuốt sang phải tại Màn hình chính</string>
     <string name="state_loading">Đang áp dụng\u2026</string>
+    <!-- Gestures -->
+    <string name="pref_dt_gesture_title">Cử chỉ chạm đúp</string>
+    <string name="pref_dt_gesture_summary">Nhấn đúp vào khoảng trống để tắt màn hình</string>
+    <string name="allow_swipe_down_clearall_title">Vuốt xuống để xóa tất cả tác vụ</string>
+    <string name="allow_swipe_down_clearall_desc">Cho phép xóa tất cả các tác vụ gần đây trong màn hình tổng quan bằng cách vuốt xuống</string>
+    <!-- Hide labels -->
+    <string name="desktop_show_labels">Hiển thị tên biểu tượng trên màn hình chính</string>
+    <string name="drawer_show_labels">Hiện tên biểu tượng nhãn trong ngăn ứng dụng</string>
     <!-- QuickSpace -->
     <string name="show_quickspace_title">Nhìn thoáng qua</string>
     <string name="show_quickspace_summary">Hiển thị ở đầu Màn hình chính của bạn</string>
@@ -137,12 +145,4 @@
     <!-- Quickspace alternative view -->
     <string name="quickspace_alternate_style_title">Sử dụng một phong cách thay thế</string>
     <string name="quickspace_alternate_style_summary">Sử dụng phong cách tối giản cho mục Xem nhanh</string>
-    <!-- Gestures -->
-    <string name="pref_dt_gesture_title">Cử chỉ chạm đúp</string>
-    <string name="pref_dt_gesture_summary">Nhấn đúp vào khoảng trống để tắt màn hình</string>
-    <string name="allow_swipe_down_clearall_title">Vuốt xuống để xóa tất cả tác vụ</string>
-    <string name="allow_swipe_down_clearall_desc">Cho phép xóa tất cả các tác vụ gần đây trong màn hình tổng quan bằng cách vuốt xuống</string>
-    <!-- Hide labels -->
-    <string name="desktop_show_labels">Hiển thị tên biểu tượng trên màn hình chính</string>
-    <string name="drawer_show_labels">Hiện tên biểu tượng nhãn trong ngăn ứng dụng</string>
 </resources>
