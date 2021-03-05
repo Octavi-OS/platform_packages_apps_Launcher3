@@ -50,6 +50,14 @@
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
     <string name="msg_minus_one_on_right">هنگام کشیدن سمت راست از صفحه اصلی</string>
     <string name="state_loading">Applying\u2026</string>
+    <!-- Gestures -->
+    <string name="pref_dt_gesture_title">تنظیم فعالیت برای دوبار ضربه زدن بر روی صفحه</string>
+    <string name="pref_dt_gesture_summary">دوبار ضربه روی فضای خالی برای خاموش کردن</string>
+    <string name="allow_swipe_down_clearall_title">کشیدن رو به پایین برای بستن همه برنامه ها</string>
+    <string name="allow_swipe_down_clearall_desc">برای بستن همه برنامه ها هنگام باز بودن برنامه های اخیر یک برنامه را رو به پایین بکشید</string>
+    <!-- Hide labels -->
+    <string name="desktop_show_labels">نشان دادن نام برنامه ها در دسکتاپ</string>
+    <string name="drawer_show_labels">نشان دادن نام برنامه ها در کشور برنامه‌ ها</string>
     <!-- QuickSpace -->
     <string name="show_quickspace_title">At A Glance</string>
     <string name="show_quickspace_summary">Show at the top of your Home screen</string>
@@ -137,12 +145,4 @@
     <!-- Quickspace alternative view -->
     <string name="quickspace_alternate_style_title">Use an alternative style</string>
     <string name="quickspace_alternate_style_summary">Use a minimalistic style for At a Glance</string>
-    <!-- Gestures -->
-    <string name="pref_dt_gesture_title">تنظیم فعالیت برای دوبار ضربه زدن بر روی صفحه</string>
-    <string name="pref_dt_gesture_summary">دوبار ضربه روی فضای خالی برای خاموش کردن</string>
-    <string name="allow_swipe_down_clearall_title">کشیدن رو به پایین برای بستن همه برنامه ها</string>
-    <string name="allow_swipe_down_clearall_desc">برای بستن همه برنامه ها هنگام باز بودن برنامه های اخیر یک برنامه را رو به پایین بکشید</string>
-    <!-- Hide labels -->
-    <string name="desktop_show_labels">نشان دادن نام برنامه ها در دسکتاپ</string>
-    <string name="drawer_show_labels">نشان دادن نام برنامه ها در کشور برنامه‌ ها</string>
 </resources>
