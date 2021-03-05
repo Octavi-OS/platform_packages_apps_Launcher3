@@ -50,6 +50,14 @@
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
     <string name="msg_minus_one_on_right">При свайпе вправо от главного экрана</string>
     <string name="state_loading">Применение\u2026</string>
+    <!-- Gestures -->
+    <string name="pref_dt_gesture_title">Жесты двойного касания</string>
+    <string name="pref_dt_gesture_summary">Двойное нажатие на пустом месте для выключения экрана</string>
+    <string name="allow_swipe_down_clearall_title">Смахните вниз, чтобы очистить все недавние приложения</string>
+    <string name="allow_swipe_down_clearall_desc">Включите, чтобы очистить все недавние приложения в обзорном экране свайпом вниз</string>
+    <!-- Hide labels -->
+    <string name="desktop_show_labels">Отображать подписи значков на рабочем столе</string>
+    <string name="drawer_show_labels">Показывать подписи значков в подвале приложений</string>
     <!-- QuickSpace -->
     <string name="show_quickspace_title">Самое главное</string>
     <string name="show_quickspace_summary">Показать в верхней части домашнего экрана</string>
@@ -137,12 +145,4 @@
     <!-- Quickspace alternative view -->
     <string name="quickspace_alternate_style_title">Использовать альтернативный стиль</string>
     <string name="quickspace_alternate_style_summary">Использовать минималистичный стиль для виджета Самое главное</string>
-    <!-- Gestures -->
-    <string name="pref_dt_gesture_title">Жесты двойного касания</string>
-    <string name="pref_dt_gesture_summary">Двойное нажатие на пустом месте для выключения экрана</string>
-    <string name="allow_swipe_down_clearall_title">Смахните вниз, чтобы очистить все недавние приложения</string>
-    <string name="allow_swipe_down_clearall_desc">Включите, чтобы очистить все недавние приложения в обзорном экране свайпом вниз</string>
-    <!-- Hide labels -->
-    <string name="desktop_show_labels">Отображать подписи значков на рабочем столе</string>
-    <string name="drawer_show_labels">Показывать подписи значков в подвале приложений</string>
 </resources>
