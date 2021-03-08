@@ -31,7 +31,7 @@
     <string name="dev_options_title">開發人員選項</string>
     <string name="dev_options_desc">自付風險開啟一些隱藏功能</string>
     <!-- Change scrim alpha in all apps -->
-    <string name="all_apps_background_opacity_title">啟用背景透明</string>
+    <string name="all_apps_background_opacity_title">所有應用背景透明度</string>
     <string name="all_apps_background_opacity_summary">背景透明或完全不透明</string>
     <!-- Suggestions -->
     <string name="suggestion_pref_screen_title">建議</string>
@@ -62,7 +62,7 @@
     <string name="show_quickspace_title">快速查看</string>
     <string name="show_quickspace_summary">顯示在主畫面的頂部</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Welcome to Octavi-OS</string>
+    <string name="quick_event_rom_intro_welcome">歡迎使用 Octavi-OS</string>
     <!-- Quickspace PSA - Custom messages for the glance -->
     <string name="quickspace_psa_title">顯示一個隨機訊息</string>
     <string name="quickspace_psa_summary">偶爾於快速查看中顯示一些親切的訊息</string>
@@ -92,7 +92,7 @@
         <item>你該放鬆一下囉。</item>
         <item>祝您有個美好的夜晚！</item>
         <item>該充電了！</item>
-        <item>明天應該是個很棒的一天</item>
+        <item>明天也許會更好!!</item>
         <item>為明天做好準備</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
@@ -102,15 +102,15 @@
         <item>你在這個時間的工作效率更高嗎？</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>無知是幸福</item>
+        <item>天真是一種幸福</item>
         <item>來享受 Octavi-OS 的順手</item>
         <item>該更新 Rom 了嗎？</item>
-        <item>對 Android 10 感到興奮？</item>
+        <item>Android 10 的體驗如何？</item>
         <item>嘿，怎麼啦？</item>
         <item>專心工作</item>
         <item>你截了幾張圖？</item>
-        <item>和 crDroid 一起打開美好吧~</item>
-        <item>散播美好，而不是破壞</item>
+        <item>和 crDroid 一起迎接美好吧~</item>
+        <item>用愛傳遞正能量</item>
         <item>祝您愉快！</item>
         <item>是時候播些好音樂了</item>
         <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
