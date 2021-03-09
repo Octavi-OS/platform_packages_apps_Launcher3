@@ -82,18 +82,18 @@
         <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Good night!</item>
-        <item>Sleep well!</item>
-        <item>See you tomorrow!</item>
-        <item>Sweet dreams!</item>
-        <item>Don\'t stay up too long</item>
-        <item>Have a good sleep</item>
-        <item>Get some sleep</item>
-        <item>Time to relax</item>
-        <item>Enjoy the night!</item>
-        <item>Time to charge the batteries!</item>
-        <item>Tomorrow might be a great day</item>
-        <item>Get your bones ready for tomorrow</item>
+        <item>شب بخیر!</item>
+        <item>خوب بخوابی!</item>
+        <item>فردا می‌بینمت!</item>
+        <item>خوابای خوشکل ببینی!</item>
+        <item>تا دیر وقت بیدار نباش</item>
+        <item>خواب خوبی داشته باشی</item>
+        <item>برو یکم چرت بزن</item>
+        <item>وقت ریلکس کردنه</item>
+        <item>از شب لذت ببر!</item>
+        <item>وقتشه که باتری رو شارژ کنی!</item>
+        <item>فردا شاید یه روز عالی باشه</item>
+        <item>خودتو واسه فردا آماده کن</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
         <item>Um... good night?</item>
