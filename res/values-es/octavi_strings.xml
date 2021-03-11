@@ -49,7 +49,7 @@
     <string name="msg_minus_one_on_left">When you swipe left from main Home screen</string>
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
     <string name="msg_minus_one_on_right">When you swipe right from main Home screen</string>
-    <string name="state_loading">Aplicando</string>
+    <string name="state_loading">Applying\u2026</string>
     <!-- Gestures -->
     <string name="pref_dt_gesture_title">Double tap gesture</string>
     <string name="pref_dt_gesture_summary">Double tap on empty space for screen-off</string>
@@ -67,26 +67,26 @@
     <string name="quickspace_psa_title">Show a random message</string>
     <string name="quickspace_psa_summary">Show some nice messages sometimes on At a Glance.</string>
     <string-array name="quickspace_psa_morning">
-        <item>¡Buenos días!</item>
-        <item>¡Buenos días, hora de actuar!</item>
-        <item>¡Qué bonito día!</item>
-        <item>¡Que tengas un buen día!</item>
-        <item>¿Qué tal una pequeña siesta de 5 minutos?</item>
-        <item>Esa es una forma de despertar.</item>
-        <item>Deberías cambiar los sonidos de tu alarma.</item>
-        <item>Parece que es un día hermoso, ¿no?</item>
-        <item>Vamos a ganarnos el pan.</item>
-        <item>Consulta el clima por si acaso</item>
-        <item>Todavía tengo sueño</item>
-        <item>¿Miraste afuera?</item>
-        <item>Vamos a terminar esto.</item>
+        <item>Good morning!</item>
+        <item>Good morning, time to rock!</item>
+        <item>What a beautiful day!</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>¡Buenas noches!</item>
-        <item>¡Que duermas bien!</item>
-        <item>¡Hasta mañana!</item>
-        <item>¡Dulces sueños!</item>
-        <item>No te acuestes muy tarde</item>
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
         <item>Have a good sleep</item>
         <item>Get some sleep</item>
         <item>Time to relax</item>
@@ -109,15 +109,15 @@
         <item>Oh hey, what\'s up?</item>
         <item>Focus on your tasks</item>
         <item>How many screenshots do you take?</item>
-        <item>Bondad abierta con crDroid</item>
-        <item>Difunde amor, no Caos</item>
-        <item>¡Qué te diviertas!</item>
-        <item>Es el momento para algo de buena música</item>
+        <item>Open goodness with crDroid</item>
+        <item>Spread love not havoc</item>
+        <item>Have fun!</item>
+        <item>Time for some good music</item>
         <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>Necesitas crDroid Premium para ver esto</item>
-        <item>Recuerda el Linaje del Unicornio</item>
-        <item>Disfruta la vida Xtended de batería</item>
-        <item>Es momento de Despertar</item>
+        <item>You need crDroid Premium to see this</item>
+        <item>Remember the Lineage of the Unicorn</item>
+        <item>Enjoy Xtended battery life</item>
+        <item>Its time to awaken</item>
         <item>Starting from the ground zero</item>
         <item>Stay Home, Stay Safe</item>
         <item>Do something nice today</item>
@@ -130,7 +130,7 @@
         <item>Sanity for your Paranoia</item>
         <item>Try Ice Cold desserts</item>
         <item>What a lovely experience, isn\'t it?</item>
-        <item>Evolution es un mito, ¿verdad?</item>
+        <item>Evolution is a myth, right?</item>
         <item>You are what you flash, don\'t be Potato</item>
         <item>What\'s on your mind?</item>
         <item>Winner Winner ....?</item>
