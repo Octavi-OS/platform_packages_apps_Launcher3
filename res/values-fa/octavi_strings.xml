@@ -18,31 +18,31 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General -->
-    <string name="settings_title">Settings</string>
+    <string name="settings_title">تنظیمات</string>
     <!-- Categories -->
-    <string name="home_category_title">Home screen</string>
-    <string name="home_category_summary">Set Google now panel and more</string>
-    <string name="icons_category_title">Icons</string>
-    <string name="icons_category_summary">Set icon shape and more</string>
-    <string name="app_drawer_category_title">App drawer</string>
-    <string name="app_drawer_category_summary">Customize your app drawer</string>
-    <string name="misc_category_title">Miscellaneous</string>
-    <string name="misc_category_summary">Other options</string>
-    <string name="dev_options_title">Developer options</string>
-    <string name="dev_options_desc">Enable some hidden features at your own risk</string>
+    <string name="home_category_title">صفحه اصلی</string>
+    <string name="home_category_summary">تنظیم کردن پنل google now و بیشتر</string>
+    <string name="icons_category_title">آیکن‌ ها</string>
+    <string name="icons_category_summary">تنظیم شکل آیکن و بیشتر</string>
+    <string name="app_drawer_category_title">کشوی برنامه ها</string>
+    <string name="app_drawer_category_summary">شخصی سازی کشوی برنامه ها</string>
+    <string name="misc_category_title">ویژگی های بیشتر</string>
+    <string name="misc_category_summary">سایر گزینه‌ها</string>
+    <string name="dev_options_title">گزینه‌های توسعه دهنده</string>
+    <string name="dev_options_desc">بعضی از ویژگیهای پنهان را با مسئولیت خودتان فعال میکند</string>
     <!-- Change scrim alpha in all apps -->
-    <string name="all_apps_background_opacity_title">All apps background transparency</string>
-    <string name="all_apps_background_opacity_summary">Make the background transparent or fully opaque</string>
+    <string name="all_apps_background_opacity_title">پس زمینه شفاف برای برنامها</string>
+    <string name="all_apps_background_opacity_summary">پس زمینه را شفاف یا کاملا مات میکند</string>
     <!-- Suggestions -->
-    <string name="suggestion_pref_screen_title">Suggestions</string>
+    <string name="suggestion_pref_screen_title">پیشنهادات</string>
     <string name="suggestion_pref_screen_desc">For All Apps &amp; Home screen suggestions</string>
     <!-- Blur radius -->
-    <string name="enable_blur_title">Enable blur</string>
-    <string name="enable_blur_summary">Make the background go out of focus</string>
-    <string name="all_apps_blur_radius_title">All apps blur radius</string>
-    <string name="all_apps_blur_radius_summary">Make the background transparent or fully opaque</string>
+    <string name="enable_blur_title">فعالسازی بلور</string>
+    <string name="enable_blur_summary">بلور را در پس زمینه فعال میکند</string>
+    <string name="all_apps_blur_radius_title">مقدار سطح بلور در برنامه ها</string>
+    <string name="all_apps_blur_radius_summary">پس زمینه را شفاف یا کاملا مات میکند</string>
     <string name="overview_blur_radius_title">Overview blur radius</string>
-    <string name="overview_blur_radius_summary">Make the background transparent or fully opaque</string>
+    <string name="overview_blur_radius_summary">پس زمینه را شفاف یا کاملا مات میکند</string>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
     <string name="title_show_google_app">Show Google App</string>
     <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
