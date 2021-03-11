@@ -35,7 +35,7 @@
     <string name="all_apps_background_opacity_summary">背景透明或完全不透明</string>
     <!-- Suggestions -->
     <string name="suggestion_pref_screen_title">建議</string>
-    <string name="suggestion_pref_screen_desc">適用於所有應用程序和主畫面的建議</string>
+    <string name="suggestion_pref_screen_desc">適用於所有應用程式和主畫面的建議</string>
     <!-- Blur radius -->
     <string name="enable_blur_title">開啟模糊</string>
     <string name="enable_blur_summary">讓背景模糊失焦</string>
