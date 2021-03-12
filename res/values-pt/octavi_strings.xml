@@ -18,64 +18,64 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General -->
-    <string name="settings_title">Settings</string>
+    <string name="settings_title">Definições</string>
     <!-- Categories -->
-    <string name="home_category_title">Home screen</string>
-    <string name="home_category_summary">Set Google now panel and more</string>
-    <string name="icons_category_title">Icons</string>
-    <string name="icons_category_summary">Set icon shape and more</string>
-    <string name="app_drawer_category_title">App drawer</string>
-    <string name="app_drawer_category_summary">Customize your app drawer</string>
-    <string name="misc_category_title">Miscellaneous</string>
-    <string name="misc_category_summary">Other options</string>
-    <string name="dev_options_title">Developer options</string>
-    <string name="dev_options_desc">Enable some hidden features at your own risk</string>
+    <string name="home_category_title">Ecrã inicial</string>
+    <string name="home_category_summary">Definir o painel do Google Now e mais</string>
+    <string name="icons_category_title">Ícones</string>
+    <string name="icons_category_summary">Definir o formato dos ícones e mais</string>
+    <string name="app_drawer_category_title">Gaveta de aplicações</string>
+    <string name="app_drawer_category_summary">Personalizar gaveta de aplicações</string>
+    <string name="misc_category_title">Diversos</string>
+    <string name="misc_category_summary">Outras opções</string>
+    <string name="dev_options_title">Opções de programador</string>
+    <string name="dev_options_desc">Ativar alguns recursos ocultos por seu próprio risco</string>
     <!-- Change scrim alpha in all apps -->
-    <string name="all_apps_background_opacity_title">All apps background transparency</string>
-    <string name="all_apps_background_opacity_summary">Make the background transparent or fully opaque</string>
+    <string name="all_apps_background_opacity_title">Transparência do plano de fundo de aplicações</string>
+    <string name="all_apps_background_opacity_summary">Fazer o plano de fundo transparente ou totalmente opaco</string>
     <!-- Suggestions -->
-    <string name="suggestion_pref_screen_title">Suggestions</string>
-    <string name="suggestion_pref_screen_desc">For All Apps &amp; Home screen suggestions</string>
+    <string name="suggestion_pref_screen_title">Mostrar sugestões</string>
+    <string name="suggestion_pref_screen_desc">Para todas as aplicações &amp; sugestões de ecrã inicial</string>
     <!-- Blur radius -->
-    <string name="enable_blur_title">Enable blur</string>
-    <string name="enable_blur_summary">Make the background go out of focus</string>
-    <string name="all_apps_blur_radius_title">All apps blur radius</string>
-    <string name="all_apps_blur_radius_summary">Make the background transparent or fully opaque</string>
-    <string name="overview_blur_radius_title">Overview blur radius</string>
-    <string name="overview_blur_radius_summary">Make the background transparent or fully opaque</string>
+    <string name="enable_blur_title">Ativar desfoque</string>
+    <string name="enable_blur_summary">Fazer o plano de fundo ficar fora de foco</string>
+    <string name="all_apps_blur_radius_title">Raio de transparência de todas as aplicações</string>
+    <string name="all_apps_blur_radius_summary">Fazer o plano de fundo transparente ou totalmente opaco</string>
+    <string name="overview_blur_radius_title">Escala do raio de desfoque</string>
+    <string name="overview_blur_radius_summary">Fazer o plano de fundo transparente ou totalmente opaco</string>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
-    <string name="title_show_google_app">Show Google App</string>
+    <string name="title_show_google_app">Mostrar aplicação Google</string>
     <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_left">When you swipe left from main Home screen</string>
+    <string name="msg_minus_one_on_left">Ao deslizar para a esquerda no ecrã inicial</string>
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_right">When you swipe right from main Home screen</string>
-    <string name="state_loading">Applying\u2026</string>
+    <string name="msg_minus_one_on_right">Quando desliza para a direita no ecrã principal</string>
+    <string name="state_loading">A aplicar\u2026</string>
     <!-- Gestures -->
-    <string name="pref_dt_gesture_title">Double tap gesture</string>
-    <string name="pref_dt_gesture_summary">Double tap on empty space for screen-off</string>
-    <string name="allow_swipe_down_clearall_title">Swipe down to clear all recents</string>
-    <string name="allow_swipe_down_clearall_desc">Enable to clear all recents in the overview screen by swiping down</string>
+    <string name="pref_dt_gesture_title">Gestos de toque duplo</string>
+    <string name="pref_dt_gesture_summary">Toque duplo num espaço vazio para desligar o ecrã</string>
+    <string name="allow_swipe_down_clearall_title">Deslize para baixo para limpar todos os recentes</string>
+    <string name="allow_swipe_down_clearall_desc">Active para limpar todos os recentes no ecrã geral deslizando para baixo</string>
     <!-- Hide labels -->
-    <string name="desktop_show_labels">Show icon labels on desktop</string>
-    <string name="drawer_show_labels">Show icon labels in drawer</string>
+    <string name="desktop_show_labels">Mostrar as legendas dos ícones na área de trabalho</string>
+    <string name="drawer_show_labels">Mostrar as legendas dos ícones no painel de aplicações</string>
     <!-- QuickSpace -->
-    <string name="show_quickspace_title">At A Glance</string>
-    <string name="show_quickspace_summary">Show at the top of your Home screen</string>
+    <string name="show_quickspace_title">Resumo</string>
+    <string name="show_quickspace_summary">Mostrar no topo do ecrã inicial</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
     <string name="quick_event_rom_intro_welcome">Welcome to Octavi-OS</string>
     <!-- Quickspace PSA - Custom messages for the glance -->
-    <string name="quickspace_psa_title">Show a random message</string>
-    <string name="quickspace_psa_summary">Show some nice messages sometimes on At a Glance.</string>
+    <string name="quickspace_psa_title">Mostrar uma mensagem aleatória</string>
+    <string name="quickspace_psa_summary">Mostrar algumas mensagens animadoras no Resumo.</string>
     <string-array name="quickspace_psa_morning">
-        <item>Good morning!</item>
-        <item>Good morning, time to rock!</item>
-        <item>What a beautiful day!</item>
-        <item>Have a nice day!</item>
-        <item>What about a small 5 minutes nap?</item>
-        <item>That\'s one way to wake up.</item>
-        <item>You should change your alarm sounds.</item>
-        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
-        <item>Let\'s get this bread.</item>
+        <item>Bom dia!</item>
+        <item>Bom dia, bora lá!</item>
+        <item>Que lindo dia!</item>
+        <item>Tem um bom dia!</item>
+        <item>Que tal uma sesta de 5 min?</item>
+        <item>Essa é uma maneira de acordar.</item>
+        <item>Devia mudar os sons de alarme.</item>
+        <item>Parece um bom dia, não?</item>
+        <item>Vamos partir isto tudo.</item>
         <item>Check the weather just in case</item>
         <item>Feeling a bit sleepy yet</item>
         <item>Have you looked outside yet?</item>
