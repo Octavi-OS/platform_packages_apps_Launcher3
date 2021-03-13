@@ -41,7 +41,7 @@
     <string name="enable_blur_summary">讓背景模糊失焦</string>
     <string name="all_apps_blur_radius_title">應用程式半徑範圍模糊</string>
     <string name="all_apps_blur_radius_summary">背景透明或完全不透明</string>
-    <string name="overview_blur_radius_title">輪廓半徑範圍模糊</string>
+    <string name="overview_blur_radius_title">總覽半徑範圍模糊</string>
     <string name="overview_blur_radius_summary">背景透明或完全不透明</string>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
     <string name="title_show_google_app">顯示 Google 應用程式</string>
@@ -73,76 +73,76 @@
         <item>祝您有個美好的一天！</item>
         <item>小睡5分鐘怎麼樣？</item>
         <item>這樣醒來也不錯。</item>
-        <item>You should change your alarm sounds.</item>
-        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
-        <item>Let\'s get this bread.</item>
-        <item>Check the weather just in case</item>
-        <item>Feeling a bit sleepy yet</item>
-        <item>Have you looked outside yet?</item>
-        <item>Let\'s get this done.</item>
+        <item>你可以換換你的鬧鐘音效。</item>
+        <item>今天天氣看起來不錯，不是嗎？</item>
+        <item>讓我們來賺錢吧。</item>
+        <item>以防萬一，檢查一下天氣吧</item>
+        <item>想睡覺了嗎？</item>
+        <item>有沒有抬頭看看窗外風景呢？</item>
+        <item>讓我們完成這件事吧。</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Good night!</item>
-        <item>Sleep well!</item>
-        <item>See you tomorrow!</item>
-        <item>Sweet dreams!</item>
-        <item>Don\'t stay up too long</item>
-        <item>Have a good sleep</item>
-        <item>Get some sleep</item>
-        <item>Time to relax</item>
-        <item>Enjoy the night!</item>
-        <item>Time to charge the batteries!</item>
-        <item>Tomorrow might be a great day</item>
-        <item>Get your bones ready for tomorrow</item>
+        <item>晚安！</item>
+        <item>祝您睡得香甜！</item>
+        <item>明天見！</item>
+        <item>祝您有個好夢！</item>
+        <item>不要熬夜太久</item>
+        <item>祝您一覺好眠！</item>
+        <item>去睡一會吧</item>
+        <item>你該放鬆一下囉。</item>
+        <item>祝您有個美好的夜晚！</item>
+        <item>該充電了！</item>
+        <item>明天也許會更好!!</item>
+        <item>為明天做好準備</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Um... good night?</item>
-        <item>It\'s a bit late now</item>
-        <item>You should fix your sleep schedule</item>
-        <item>Are you more productive at this time?</item>
+        <item>嗯... 晚安？</item>
+        <item>不覺得現在的時間有點晚了嗎？</item>
+        <item>你應該調整好你的睡眠時間表</item>
+        <item>你在這個時間的工作效率更高嗎？</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Ignorance is Bliss</item>
-        <item>Enjoy Octavi-OS Smoothness</item>
-        <item>Is it time to flash another update already?</item>
-        <item>Hyped about Android 10?</item>
-        <item>Oh hey, what\'s up?</item>
-        <item>Focus on your tasks</item>
-        <item>How many screenshots do you take?</item>
-        <item>Open goodness with crDroid</item>
-        <item>Spread love not havoc</item>
-        <item>Have fun!</item>
-        <item>Time for some good music</item>
+        <item>天真是一種幸福</item>
+        <item>來享受 Octavi-OS 的順手</item>
+        <item>該更新 Rom 了嗎？</item>
+        <item>Android 11 的體驗如何？</item>
+        <item>嘿，怎麼啦？</item>
+        <item>專心工作</item>
+        <item>你截了幾張圖？</item>
+        <item>和 Octavi-OS 一起迎接美好吧~</item>
+        <item>用愛傳遞正能量</item>
+        <item>祝您愉快！</item>
+        <item>是時候播些好音樂了</item>
         <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>You need crDroid Premium to see this</item>
-        <item>Remember the Lineage of the Unicorn</item>
-        <item>Enjoy Xtended battery life</item>
-        <item>Its time to awaken</item>
-        <item>Starting from the ground zero</item>
-        <item>Stay Home, Stay Safe</item>
-        <item>Do something nice today</item>
-        <item>This is best Pixel Experience, isn\'t it?</item>
-        <item>How is everything going?</item>
-        <item>No illusions, welcome to reality!</item>
-        <item>Thank you for your support</item>
-        <item>No festival for Derps - only perfection!</item>
-        <item>One of the buildbot\'s best picks</item>
-        <item>Sanity for your Paranoia</item>
-        <item>Try Ice Cold desserts</item>
-        <item>What a lovely experience, isn\'t it?</item>
-        <item>Evolution is a myth, right?</item>
-        <item>You are what you flash, don\'t be Potato</item>
-        <item>What\'s on your mind?</item>
-        <item>Winner Winner ....?</item>
+        <item>你需要 Octavi-OS Premium 才能看到這個內容</item>
+        <item>記住 Octavi-OS 的血統</item>
+        <item>享受延長的電池壽命吧</item>
+        <item>時間到了</item>
+        <item>從零開始</item>
+        <item>待在家裡，更安全</item>
+        <item>日行一善</item>
+        <item>這不就是最棒的 Pixel 體驗嗎？</item>
+        <item>最近過得怎麼樣？</item>
+        <item>這不是幻覺，歡迎來到現實！</item>
+        <item>感謝您的支持！</item>
+        <item>沒有慶祝白癡的節日－只有完美！</item>
+        <item>Buildbot 的最佳選擇之一</item>
+        <item>為你的偏執增添理智</item>
+        <item>試試冰涼的甜點</item>
+        <item>多麼美妙的經歷，不是嗎？</item>
+        <item>進化是個迷思，對吧？</item>
+        <item>你刷什麼就是什麼，別當個馬鈴薯</item>
+        <item>正想些什麼嗎？</item>
+        <item>大吉大利……？</item>
         <item>rm -rf \/</item>
     </string-array>
     <!-- QuickSpace: QuickEvent: Ambient Play -->
-    <string name="quick_event_ambient_now_playing">Now Playing</string>
+    <string name="quick_event_ambient_now_playing">正在播放</string>
     <string name="quick_event_ambient_song_artist">%1$s by %2$s</string>
     <!-- Quickspace Now Playing -->
-    <string name="quickspace_now_playing_title">Show now playing</string>
-    <string name="quickspace_now_playing_summary">Shows the song you\'re playing on At a Glance.</string>
+    <string name="quickspace_now_playing_title">顯示正在播放</string>
+    <string name="quickspace_now_playing_summary">在快速查看顯示您正在播放的歌曲。</string>
     <!-- Quickspace alternative view -->
-    <string name="quickspace_alternate_style_title">Use an alternative style</string>
-    <string name="quickspace_alternate_style_summary">Use a minimalistic style for At a Glance</string>
+    <string name="quickspace_alternate_style_title">使用替代風格</string>
+    <string name="quickspace_alternate_style_summary">為快速查看套用極簡風格</string>
 </resources>
