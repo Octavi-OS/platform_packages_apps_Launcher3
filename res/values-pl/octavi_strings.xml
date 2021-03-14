@@ -20,27 +20,27 @@
     <!-- General -->
     <string name="settings_title">Settings</string>
     <!-- Categories -->
-    <string name="home_category_title">Home screen</string>
-    <string name="home_category_summary">Set Google now panel and more</string>
-    <string name="icons_category_title">Icons</string>
-    <string name="icons_category_summary">Set icon shape and more</string>
-    <string name="app_drawer_category_title">App drawer</string>
-    <string name="app_drawer_category_summary">Customize your app drawer</string>
+    <string name="home_category_title">Ekran główny</string>
+    <string name="home_category_summary">Ustaw panel Google Now i więcej</string>
+    <string name="icons_category_title">Ikony</string>
+    <string name="icons_category_summary">Ustaw kształt ikon i więcej</string>
+    <string name="app_drawer_category_title">Szuflada aplikacji</string>
+    <string name="app_drawer_category_summary">Spersonalizuj szufladę aplikacji</string>
     <string name="misc_category_title">Miscellaneous</string>
-    <string name="misc_category_summary">Other options</string>
-    <string name="dev_options_title">Developer options</string>
-    <string name="dev_options_desc">Enable some hidden features at your own risk</string>
+    <string name="misc_category_summary">Inne opcje</string>
+    <string name="dev_options_title">Opcje programistyczne</string>
+    <string name="dev_options_desc">Włącz ukryte funkcje na własne ryzyko</string>
     <!-- Change scrim alpha in all apps -->
-    <string name="all_apps_background_opacity_title">All apps background transparency</string>
-    <string name="all_apps_background_opacity_summary">Make the background transparent or fully opaque</string>
+    <string name="all_apps_background_opacity_title">Przezroczystość tła wszystkich aplikacji</string>
+    <string name="all_apps_background_opacity_summary">Spraw, aby tło było przezroczyste lub w pełni nieprzezroczyste</string>
     <!-- Suggestions -->
-    <string name="suggestion_pref_screen_title">Suggestions</string>
-    <string name="suggestion_pref_screen_desc">For All Apps &amp; Home screen suggestions</string>
+    <string name="suggestion_pref_screen_title">Sugestie</string>
+    <string name="suggestion_pref_screen_desc">Dla wszystkich aplikacji &amp; Sugestie ekranu głównego</string>
     <!-- Blur radius -->
-    <string name="enable_blur_title">Enable blur</string>
-    <string name="enable_blur_summary">Make the background go out of focus</string>
-    <string name="all_apps_blur_radius_title">All apps blur radius</string>
-    <string name="all_apps_blur_radius_summary">Make the background transparent or fully opaque</string>
+    <string name="enable_blur_title">Włącz rozmycie</string>
+    <string name="enable_blur_summary">Spraw, aby tło stało się nieostre</string>
+    <string name="all_apps_blur_radius_title">Promień rozmycia wszystkich aplikacji</string>
+    <string name="all_apps_blur_radius_summary">Spraw, aby tło było przezroczyste lub w pełni nieprzezroczyste</string>
     <string name="overview_blur_radius_title">Overview blur radius</string>
     <string name="overview_blur_radius_summary">Make the background transparent or fully opaque</string>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
@@ -51,7 +51,7 @@
     <string name="msg_minus_one_on_right">When you swipe right from main Home screen</string>
     <string name="state_loading">Applying\u2026</string>
     <!-- Gestures -->
-    <string name="pref_dt_gesture_title">Double tap gesture</string>
+    <string name="pref_dt_gesture_title">Gest dwukrotnego dotknięcia</string>
     <string name="pref_dt_gesture_summary">Double tap on empty space for screen-off</string>
     <string name="allow_swipe_down_clearall_title">Swipe down to clear all recents</string>
     <string name="allow_swipe_down_clearall_desc">Enable to clear all recents in the overview screen by swiping down</string>
@@ -62,48 +62,48 @@
     <string name="show_quickspace_title">At A Glance</string>
     <string name="show_quickspace_summary">Show at the top of your Home screen</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Welcome to Octavi-OS</string>
+    <string name="quick_event_rom_intro_welcome">Witamy w Octavi-OS</string>
     <!-- Quickspace PSA - Custom messages for the glance -->
     <string name="quickspace_psa_title">Show a random message</string>
     <string name="quickspace_psa_summary">Show some nice messages sometimes on At a Glance.</string>
     <string-array name="quickspace_psa_morning">
         <item>Good morning!</item>
         <item>Good morning, time to rock!</item>
-        <item>What a beautiful day!</item>
-        <item>Have a nice day!</item>
+        <item>Co za piękny dzień!</item>
+        <item>Miłego dnia!</item>
         <item>What about a small 5 minutes nap?</item>
         <item>That\'s one way to wake up.</item>
         <item>You should change your alarm sounds.</item>
         <item>Looks like it\'s a beautiful day, isn\'t it?</item>
         <item>Let\'s get this bread.</item>
         <item>Check the weather just in case</item>
-        <item>Feeling a bit sleepy yet</item>
-        <item>Have you looked outside yet?</item>
-        <item>Let\'s get this done.</item>
+        <item>Jestem trochę śpiący</item>
+        <item>Wyjrzałeś już dzisiaj za okno?</item>
+        <item>Zajmijmy się tym.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Good night!</item>
-        <item>Sleep well!</item>
-        <item>See you tomorrow!</item>
-        <item>Sweet dreams!</item>
-        <item>Don\'t stay up too long</item>
-        <item>Have a good sleep</item>
-        <item>Get some sleep</item>
-        <item>Time to relax</item>
-        <item>Enjoy the night!</item>
-        <item>Time to charge the batteries!</item>
-        <item>Tomorrow might be a great day</item>
-        <item>Get your bones ready for tomorrow</item>
+        <item>Dobranoc!</item>
+        <item>Śpij dobrze!</item>
+        <item>Do zobaczenia jutro!</item>
+        <item>Słodkich snów!</item>
+        <item>Nie siedź za długo</item>
+        <item>Miłych snów</item>
+        <item>Wyśpij się</item>
+        <item>Czas na relaks</item>
+        <item>Ciesz się nocą!</item>
+        <item>Czas naładować baterie!</item>
+        <item>Jutro może być świetnym dniem</item>
+        <item>Przygotuj się na jutro</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Um... good night?</item>
-        <item>It\'s a bit late now</item>
-        <item>You should fix your sleep schedule</item>
-        <item>Are you more productive at this time?</item>
+        <item>Hmm... dobrej nocy?</item>
+        <item>Jest już trochę późno</item>
+        <item>Powinieneś naprawić swój zegar biologiczny</item>
+        <item>Jesteś teraz bardziej produktywny?</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Ignorance is Bliss</item>
-        <item>Enjoy Octavi-OS Smoothness</item>
+        <item>Niewiedza jest błogosławieństwem</item>
+        <item>Ciesz się płynnością działania Octavi-OS</item>
         <item>Is it time to flash another update already?</item>
         <item>Hyped about Android 10?</item>
         <item>Oh hey, what\'s up?</item>
