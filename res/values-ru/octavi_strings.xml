@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General -->
+    <string name="settings_title">Настройки</string>
+    <!-- Categories -->
+    <string name="home_category_title">Домашний экран</string>
+    <string name="home_category_summary">Установить панель Google now и др.</string>
+    <string name="icons_category_title">Иконки</string>
+    <string name="icons_category_summary">Настроить форму иконок и другое</string>
+    <string name="app_drawer_category_title">Подвал приложений</string>
+    <string name="app_drawer_category_summary">Настроить подвал приложений</string>
+    <string name="misc_category_title">Разное</string>
+    <string name="misc_category_summary">Другие настройки</string>
+    <string name="dev_options_title">Настройки разработчика</string>
+    <string name="dev_options_desc">Включить некоторые скрытые функции на свой страх и риск</string>
+    <!-- Change scrim alpha in all apps -->
+    <string name="all_apps_background_opacity_title">Прозрачность фона всех приложений</string>
+    <string name="all_apps_background_opacity_summary">Сделать фон прозрачным или полностью непрозрачным</string>
+    <!-- Suggestions -->
+    <string name="suggestion_pref_screen_title">Предложения</string>
+    <string name="suggestion_pref_screen_desc">Для всех приложений &amp; подсказки главного экрана</string>
+    <!-- Blur radius -->
+    <string name="enable_blur_title">Включить размытие</string>
+    <string name="enable_blur_summary">Делает фон вне фокуса</string>
+    <string name="all_apps_blur_radius_title">Радиус размытия всех приложений</string>
+    <string name="all_apps_blur_radius_summary">Сделать фон прозрачным или полностью непрозрачным</string>
+    <string name="overview_blur_radius_title">Радиус размытия</string>
+    <string name="overview_blur_radius_summary">Сделать фон прозрачным или полностью непрозрачным</string>
+    <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
+    <string name="title_show_google_app">Показать приложение Google</string>
+    <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
+    <string name="msg_minus_one_on_left">При свайпе влево от главного экрана</string>
+    <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
+    <string name="msg_minus_one_on_right">При свайпе вправо от главного экрана</string>
+    <string name="state_loading">Применение\u2026</string>
+    <!-- Gestures -->
+    <string name="pref_dt_gesture_title">Жесты двойного касания</string>
+    <string name="pref_dt_gesture_summary">Двойное нажатие на пустом месте для выключения экрана</string>
+    <string name="allow_swipe_down_clearall_title">Смахните вниз, чтобы очистить все недавние приложения</string>
+    <string name="allow_swipe_down_clearall_desc">Включите, чтобы очистить все недавние приложения в обзорном экране свайпом вниз</string>
+    <!-- Hide labels -->
+    <string name="desktop_show_labels">Отображать подписи значков на рабочем столе</string>
+    <string name="drawer_show_labels">Показывать подписи значков в подвале приложений</string>
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">Самое главное</string>
+    <string name="show_quickspace_summary">Показать в верхней части домашнего экрана</string>
+    <!-- QuickSpace: QuickEvent: Device Intro Event -->
+    <string name="quick_event_rom_intro_welcome">Добро пожаловать в Octavi-OS</string>
+    <!-- Quickspace PSA - Custom messages for the glance -->
+    <string name="quickspace_psa_title">Показать случайное сообщение</string>
+    <string name="quickspace_psa_summary">Показывать иногда некоторые приятные сообщения на виджете Самое главное.</string>
+    <string-array name="quickspace_psa_morning">
+        <item>Доброе утро!</item>
+        <item>Доброе утро, время зажигать!</item>
+        <item>Какой чудесный день!</item>
+        <item>Хорошего дня!</item>
+        <item>Как насчет небольшого 5-минутного перерыва?</item>
+        <item>Это один из способов пробуждения.</item>
+        <item>Вы должны сменить звук будильника.</item>
+        <item>Похоже, это прекрасный день, не так ли?</item>
+        <item>Давай получим этот кусок хлеба.</item>
+        <item>Проверьте погоду на всякий случай</item>
+        <item>Ещё чувствуете себя немного сонным</item>
+        <item>Вы уже смотрели на улицу?</item>
+        <item>Давайте сделаем это.</item>
+    </string-array>
+    <string-array name="quickspace_psa_evening">
+        <item>Спокойной ночи!</item>
+        <item>Приятных снов!</item>
+        <item>Увидимся завтра!</item>
+        <item>Сладких снов!</item>
+        <item>Не засиживайся слишком долго</item>
+        <item>Хорошего сна</item>
+        <item>Пора поспать</item>
+        <item>Время расслабиться</item>
+        <item>Приятной ночи!</item>
+        <item>Время зарядить батарейки!</item>
+        <item>Завтра может быть отличным днем</item>
+        <item>Готовь свои кости к завтрашнему дню</item>
+    </string-array>
+    <string-array name="quickspace_psa_midnight">
+        <item>Эм... спокойной ночи?</item>
+        <item>Сейчас уже немного поздно</item>
+        <item>Вы должны исправить свой режим сна</item>
+        <item>Вы более продуктивны в это время?</item>
+    </string-array>
+    <string-array name="quickspace_psa_random">
+        <item>Неведение - благо</item>
+        <item>Наслаждайтесь плавностью Octavi-OS</item>
+        <item>Не пора ли уже прошить еще одно обновление?</item>
+        <item>В восторге от Андроид 10?</item>
+        <item>О, привет, как дела?</item>
+        <item>Сосредоточьтесь на своих задачах</item>
+        <item>Сколько скриншотов вы сделали?</item>
+        <item>Откройте лучшее с crDroid</item>
+        <item>Распространяйте любовь, а не хаос</item>
+        <item>Веселитесь!</item>
+        <item>Время для хорошей музыки</item>
+        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
+        <item>Вам нужен crDroid Премиум, чтобы увидеть это</item>
+        <item>Помни Lineage of the Unicorn</item>
+        <item>Наслаждайтесь Xtended жизнью батареи</item>
+        <item>Время пробудиться</item>
+        <item>Начиная с нуля</item>
+        <item>Оставайтесь дома в безопасности</item>
+        <item>Сделайте сегодня что-то приятное</item>
+        <item>Это же лучший Pixel Experience, не так ли?</item>
+        <item>Как дела?</item>
+        <item>Никаких иллюзий, добро пожаловать в реальность!</item>
+        <item>Спасибо за вашу поддержку</item>
+        <item>Никакого фестиваля для Derps - только совершенство!</item>
+        <item>Один из лучших по выбору билдботов</item>
+        <item>Безопасность для вашей паранойи</item>
+        <item>Попробуйте холодные десерты</item>
+        <item>Какой прекрасный опыт, не так ли?</item>
+        <item>Эволюция - это миф, правда?</item>
+        <item>Ты - это то что ты прошиваешь, не будь овощем</item>
+        <item>О чём думаете?</item>
+        <item>Победитель, Победитель ....?</item>
+        <item>rm -rf \/</item>
+    </string-array>
+    <!-- QuickSpace: QuickEvent: Ambient Play -->
+    <string name="quick_event_ambient_now_playing">Сейчас играет</string>
+    <string name="quick_event_ambient_song_artist">%1$s от %2$s</string>
+    <!-- Quickspace Now Playing -->
+    <string name="quickspace_now_playing_title">Показать что играет сейчас</string>
+    <string name="quickspace_now_playing_summary">Показывать проигрываемую песню в Самом Главном.</string>
+    <!-- Quickspace alternative view -->
+    <string name="quickspace_alternate_style_title">Использовать альтернативный стиль</string>
+    <string name="quickspace_alternate_style_summary">Использовать минималистичный стиль для виджета Самое главное</string>
+</resources>
