@@ -29,16 +29,56 @@
     <string name="dev_options_title">خيارات المطور</string>
     <string name="dev_options_desc">مكّن بعض الخيارات الخفية على مسؤوليتك الخاصة</string>
     <!-- Change scrim alpha in all apps -->
+    <string name="all_apps_background_opacity_title">شفافية خلفية التطبيقات</string>
+    <string name="all_apps_background_opacity_summary">جعل الخلفية شفافة أو غامضة تماماً</string>
     <!-- Suggestions -->
+    <string name="suggestion_pref_screen_title">إقتراحات</string>
+    <string name="suggestion_pref_screen_desc">إقتراحات الشاشة الرئيسية &amp; لجميع التطبيقات</string>
     <!-- Blur radius -->
+    <string name="enable_blur_title">تفعيل الضبابية</string>
+    <string name="enable_blur_summary">جعل الخلفية تخرج عن التركيز</string>
+    <string name="all_apps_blur_radius_title">قطر ضبابية جميع التطبيقات</string>
+    <string name="all_apps_blur_radius_summary">جعل الخلفية شفافة أو غامضة تماماً</string>
+    <string name="overview_blur_radius_title">قطر الضبابية العام</string>
+    <string name="overview_blur_radius_summary">جعل الخلفية شفافة أو غامضة تماماً</string>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
+    <string name="title_show_google_app">إظهار تطبيق غوغل</string>
     <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
+    <string name="msg_minus_one_on_left">عندما تُمرر يساراً من الشاشة الرئيسية</string>
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
+    <string name="msg_minus_one_on_right">عندما تُمرر يميناً من الشاشة الرئيسية</string>
+    <string name="state_loading">جار التطبيق \u2026</string>
     <!-- Gestures -->
+    <string name="pref_dt_gesture_title">إيماء الضغط المزدوج</string>
+    <string name="pref_dt_gesture_summary">إطفاء الشاشة بنقر مزدوج على مساحة فارغة من الشاشة</string>
+    <string name="allow_swipe_down_clearall_title">مَرر للأسفل لإغلاق التطبيقات المفتوحة</string>
+    <string name="allow_swipe_down_clearall_desc">تفعيل إغلاق التطبيقات المفتوحة بالتمرير للأسفل</string>
     <!-- Hide labels -->
+    <string name="desktop_show_labels">إظهار أسماء الأيقونات على الشاشة الرئيسية</string>
+    <string name="drawer_show_labels">إظهار أسماء التطبيقات في قائمة التطبيقات</string>
     <!-- QuickSpace -->
+    <string name="show_quickspace_title">في لمحة</string>
+    <string name="show_quickspace_summary">إظهار في أعلى الشاشة الرئيسية</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
+    <string name="quick_event_rom_intro_welcome">أهلاً في نظام تشغيل أوكتافي</string>
     <!-- Quickspace PSA - Custom messages for the glance -->
+    <string name="quickspace_psa_title">إظهار رسالة عشوائية</string>
+    <string name="quickspace_psa_summary">إظهار رسائل لطيفة في لمحة.</string>
+    <string-array name="quickspace_psa_morning">
+        <item>صباح الخير!</item>
+        <item>Good morning, time to rock!</item>
+        <item>What a beautiful day!</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
+    </string-array>
     <!-- QuickSpace: QuickEvent: Ambient Play -->
     <!-- Quickspace Now Playing -->
     <!-- Quickspace alternative view -->
