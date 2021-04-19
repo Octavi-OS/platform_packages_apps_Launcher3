@@ -19,6 +19,15 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General -->
     <!-- Categories -->
+    <string name="home_category_title">الشاشة الرئيسية</string>
+    <string name="home_category_summary">تعيين لوحة غوغل و غيرها</string>
+    <string name="icons_category_title">الأيقونات</string>
+    <string name="icons_category_summary">تعيين شكل الأيقونة و غيرها</string>
+    <string name="app_drawer_category_title">قائمة التطبيقات</string>
+    <string name="app_drawer_category_summary">خصص قائمة تطبيقاتك</string>
+    <string name="misc_category_summary">خيارات أخرى</string>
+    <string name="dev_options_title">خيارات المطور</string>
+    <string name="dev_options_desc">مكّن بعض الخيارات الخفية على مسؤوليتك الخاصة</string>
     <!-- Change scrim alpha in all apps -->
     <!-- Suggestions -->
     <!-- Blur radius -->
