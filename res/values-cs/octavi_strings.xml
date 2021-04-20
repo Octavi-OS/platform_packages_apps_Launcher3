@@ -18,7 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General -->
+    <string name="settings_title">Nastavení</string>
     <!-- Categories -->
+    <string name="misc_category_title">Různá nastavení</string>
     <!-- Change scrim alpha in all apps -->
     <!-- Suggestions -->
     <!-- Blur radius -->
