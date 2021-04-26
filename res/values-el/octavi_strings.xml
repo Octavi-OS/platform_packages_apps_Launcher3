@@ -1,148 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2008 The Android Open Source Project
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
+<!-- Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- General -->
-    <string name="settings_title">Ρυθμίσεις</string>
-    <!-- Categories -->
-    <string name="home_category_title">Αρχική οθόνη</string>
-    <string name="home_category_summary">Ρύθμιση πλαισίου Google now και άλλα</string>
-    <string name="icons_category_title">Εικονίδια</string>
-    <string name="icons_category_summary">Ρύθμιση σχήματος εικονιδίων και άλλων</string>
-    <string name="app_drawer_category_title">Συρτάρι εφαρμογών</string>
-    <string name="app_drawer_category_summary">Διαμόρφωση του συρταριού εφαρμογών</string>
-    <string name="misc_category_title">Διάφορα</string>
-    <string name="misc_category_summary">Άλλες επιλογές</string>
-    <string name="dev_options_title">Επιλογές για προγραμματιστές</string>
-    <string name="dev_options_desc">Ενεργοποιήστε μερικές κρυφές λειτουργίες με δική σας ευθύνη</string>
-    <!-- Change scrim alpha in all apps -->
-    <string name="all_apps_background_opacity_title">Διαφάνεια φόντου όλων των εφαρμογών</string>
-    <string name="all_apps_background_opacity_summary">Κάντε το φόντο διαφανές ή πλήρως αδιαφανές</string>
-    <!-- Suggestions -->
-    <string name="suggestion_pref_screen_title">Προτάσεις</string>
-    <string name="suggestion_pref_screen_desc">Για όλες τις εφαρμογές&amp; Προτάσεις αρχικής οθόνης</string>
-    <!-- Blur radius -->
-    <string name="enable_blur_title">Ενεργοποίηση θαμπώματος</string>
-    <string name="enable_blur_summary">Κάνει το φόντο να βγει εκτός εστίασης</string>
-    <string name="all_apps_blur_radius_title">Ακτίνα θαμπώματος όλων των εφαρμογών</string>
-    <string name="all_apps_blur_radius_summary">Κάντε το φόντο διαφανές ή πλήρως αδιαφανές</string>
-    <string name="overview_blur_radius_title">Επισκόπηση ακτίνας θαμπώματος</string>
-    <string name="overview_blur_radius_summary">Κάντε το φόντο διαφανές ή πλήρως αδιαφανές</string>
+<resources>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
     <string name="title_show_google_app">Εμφάνιση Εφαρμογής Google</string>
     <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
     <string name="msg_minus_one_on_left">Όταν σύρετε προς τα αριστερά από την κύρια αρχική οθόνη</string>
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
     <string name="msg_minus_one_on_right">Όταν σύρετε προς τα δεξιά από την κύρια αρχική οθόνη</string>
-    <string name="state_loading">Εφαρμογή\u2026</string>
-    <!-- Gestures -->
-    <string name="pref_dt_gesture_title">Χειρονομίες διπλού πατήματος</string>
-    <string name="pref_dt_gesture_summary">Πατήστε δύο φορές σε κενό χώρο για απενεργοποίηση της οθόνης</string>
-    <string name="allow_swipe_down_clearall_title">Σύρετε προς τα κάτω για εκκαθάριση όλων των προσφάτων</string>
-    <string name="allow_swipe_down_clearall_desc">Ενεργοποιήστε την εκκαθάριση όλων των προσφάτων στην οθόνη επισκόπησης σύροντας προς τα κάτω</string>
     <!-- Hide labels -->
     <string name="desktop_show_labels">Εμφάνιση ετικετών εικονιδίων στην επιφάνεια εργασίας</string>
     <string name="drawer_show_labels">Εμφάνιση ετικετών εικονιδίων στο συρτάρι εφαρμογών</string>
-    <!-- QuickSpace -->
-    <string name="show_quickspace_title">Με Μια Ματιά</string>
-    <string name="show_quickspace_summary">Εμφάνιση στο επάνω μέρος της αρχικής οθόνης σας</string>
-    <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Καλώς ήλθατε στο Octavi-OS</string>
-    <!-- Quickspace PSA - Custom messages for the glance -->
-    <string name="quickspace_psa_title">Εμφάνιση τυχαίου μηνύματος</string>
-    <string name="quickspace_psa_summary">Δείξτε μερικά ωραία μηνύματα μερικές φορές με μια ματιά.</string>
-    <string-array name="quickspace_psa_morning">
-        <item>Καλημέρα!</item>
-        <item>Καλημέρα, ώρα να ροκάρουμε!</item>
-        <item>Τι όμορφη μέρα!</item>
-        <item>Να έχεις μια καταπληκτική ημέρα!</item>
-        <item>Τι λες για έναν μικρό υπνάκο 5 λεπτών;</item>
-        <item>Αυτός είναι ένας τρόπος να ξυπνήσετε.</item>
-        <item>Θα πρέπει να αλλάξετε τους ήχους συναγερμού σας.</item>
-        <item>Φαίνεται ότι είναι μια όμορφη μέρα, δεν είναι;</item>
-        <item>Ας πάρουμε αυτό το ψωμί.</item>
-        <item>Έλεγξε τον καιρό για κάθε περίπτωση</item>
-        <item>Αισθάνεσαι λίγο υπνηλία</item>
-        <item>Έχεις κοιτάξει έξω ακόμη;</item>
-        <item>Ας το κάνουμε αυτό.</item>
-    </string-array>
-    <string-array name="quickspace_psa_evening">
-        <item>Καληνύχτα!</item>
-        <item>Όνειρα γλυκά!</item>
-        <item>Τα λέμε αύριο!</item>
-        <item>Όνειρα γλυκά!</item>
-        <item>Μην μένεις ξύπνιος μέχρι αργά</item>
-        <item>Να έχεις έναν καλό ύπνο</item>
-        <item>Πήγαινε να κοιμηθείς λίγο</item>
-        <item>Ώρα για χαλάρωση</item>
-        <item>Απόλαυσε τη νύχτα!</item>
-        <item>Ώρα να φορτίσεις τις μπαταρίες!</item>
-        <item>Αύριο μπορεί να είναι μια υπέροχη μέρα</item>
-        <item>Ετοίμασε τα κόκαλά σου για αύριο</item>
-    </string-array>
-    <string-array name="quickspace_psa_midnight">
-        <item>Εμ... καληνύχτα;</item>
-        <item>Είναι λίγο αργά τώρα</item>
-        <item>Πρέπει να διορθώσεις το πρόγραμμα ύπνου σου</item>
-        <item>Είσαι πιο παραγωγικός αυτή τη στιγμή;</item>
-    </string-array>
-    <string-array name="quickspace_psa_random">
-        <item>Η άγνοια είναι Ευτυχία</item>
-        <item>Απολαύστε την ομαλή περιήγηση του Octavi-OS</item>
-        <item>Ήρθε η ώρα να fφλασάρουμε ακόμα μια ενημέρωση;</item>
-        <item>Τι λες σχετικά με το Android 10;</item>
-        <item>Γεια σου, τι γίνεται;</item>
-        <item>Επικεντρώσου στις εργασίες σου</item>
-        <item>Πόσα στιγμιότυπα οθόνης παίρνεις;</item>
-        <item>Ανοίξτε την καλοσύνη με την OctaviOS</item>
-        <item>Μοίρασε αγάπη όχι όλεθρο</item>
-        <item>Καλή διασκέδαση!</item>
-        <item>Ώρα για λίγη καλή μουσική</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>Χρειάζεστε Octavi Premium για να τo δείτε αυτό</item>
-        <item>Θυμήσου το Lineage του Unicorn</item>
-        <item>Απολαύστε τη διάρκεια ζωής της μπαταρίας Xtended</item>
-        <item>Είναι ώρα να ξυπνήσεις</item>
-        <item>Ξεκινώντας από το απόλυτο μηδέν</item>
-        <item>Μείνετε Στο Σπίτι, Μείνετε Ασφαλής</item>
-        <item>Κάνε κάτι ωραίο σήμερα</item>
-        <item>Αυτή είναι η καλύτερη εμπειρία Pixel, έτσι δεν είναι;</item>
-        <item>Πως πάνε τα πράγματα;</item>
-        <item>Χωρίς ψευδαισθήσεις, καλώς ήρθατε στην πραγματικότητα!</item>
-        <item>Ευχαριστούμε για την υποστήριξη</item>
-        <item>Κανένα φεστιβάλ για Derps - μόνο τελειότητα!</item>
-        <item>Μία από τις καλύτερες επιλογές του buildbot</item>
-        <item>Φωτισμός για την Παράνοια σας</item>
-        <item>Δοκιμάστε τα Ice Cold επιδόρπια</item>
-        <item>Τι υπέροχη εμπειρία, δεν είναι;</item>
-        <item>Η εξέλιξη είναι μύθος, σωστά;</item>
-        <item>Είσαι ότι φλασάρεις, μην είσαι Πατάτα</item>
-        <item>Τι σκέφτεσαι;</item>
-        <item>Νικητής Νικητής ....;</item>
-        <item>rm -rf \/</item>
-    </string-array>
-    <!-- QuickSpace: QuickEvent: Ambient Play -->
-    <string name="quick_event_ambient_now_playing">Παίζει Τώρα</string>
-    <string name="quick_event_ambient_song_artist">%1$s από %2$s</string>
-    <!-- Quickspace Now Playing -->
-    <string name="quickspace_now_playing_title">Εμφάνιση αναπαραγωγής τώρα</string>
-    <string name="quickspace_now_playing_summary">Δείχνει το τραγούδι που παίζετε με μια ματιά.</string>
-    <!-- Quickspace alternative view -->
-    <string name="quickspace_alternate_style_title">Χρησιμοποιήστε ένα εναλλακτικό στυλ</string>
-    <string name="quickspace_alternate_style_summary">Χρησιμοποιήστε ένα μινιμαλιστικό στυλ με μια ματιά</string>
+    <string name="show_labels_landscape">Εμφάνιση ετικετών εικονιδίων σε λειτουργία τοπίου</string>
+    <!-- Suggestions -->
+    <string name="suggestion_pref_screen_title">Προτάσεις</string>
+    <string name="suggestion_pref_screen_desc">Για όλες τις εφαρμογές&amp; Προτάσεις αρχικής οθόνης</string>
+    <!-- Edit workspace -->
+    <string name="settings_edit_allow_title">Να επιτρέπεται η επεξεργασία</string>
+    <string name="settings_edit_allow_summary_on">Τα εικονίδια και τα γραφικά στοιχεία μπορούν να προστεθούν, να αφαιρεθούν και να μετακινηθούν στην αρχική οθόνη</string>
+    <string name="settings_edit_allow_summary_off">Εικονίδια και widget δεν μπορούν να προστεθούν, να αφαιρεθούν και να μετακινηθούν στην αρχική οθόνη</string>
+    <string name="settings_edit_widgets_error">Δεν είναι δυνατή η προσθήκη γραφικών συστατικών στην αρχική οθόνη</string>
+    <!-- Gestures -->
+    <string name="pref_notification_gesture_title">Χειρονομία ολίσθησης προς τα κάτω</string>
+    <string name="pref_notification_gesture_summary">Σύρετε κάθετα προς τα κάτω στην αρχική οθόνη για εμφάνιση του πίνακα ειδοποιήσεων</string>
+    <string name="pref_dt_gesture_title">Χειρονομίες διπλού πατήματος</string>
+    <string name="pref_dt_gesture_summary">Πατήστε δύο φορές σε κενό χώρο για απενεργοποίηση της οθόνης</string>
+    <!-- AppInfo -->
+    <string name="app_info_subtext">Σύρετε προς τα κάτω για να κλείσετε τις πληροφορίες της εφαρμογής.</string>
+    <string name="app_info_version_value">%1$s (%2$d)</string>
+    <string name="placeholder_string">Φόρτωση...</string>
+    <!-- Used for preference height loading. -->
+    <string name="app_info_icon_pack">Πακέτα εικονιδίων</string>
+    <string name="app_info_icon_pack_none">Κανένα</string>
+    <string name="app_info_source">Κώδικας</string>
+    <string name="app_info_source_system">Σύστημα</string>
+    <string name="app_info_last_update">Τελευταία ενημέρωση</string>
+    <string name="app_info_version">Έκδοση</string>
+    <string name="app_info_more">Περισσότερα</string>
+    <!-- Preference default value -->
+    <string name="pref_value_default">Προεπιλογή</string>
+    <string name="state_loading">Εφαρμογή\u2026</string>
+    <!-- Gradients on Workspace/Hotseat -->
+    <string name="workspace_gradient_title">Εμφάνιση διαβάθμισης στην κορυφή</string>
+    <string name="workspace_gradient_summary">Ενεργοποίηση μιας λεπτής διαβάθμισης από τη γραμμή κατάστασης</string>
+    <string name="hotseat_gradient_title">Εμφάνιση διαβάθμισης στο κάτω μέρος</string>
+    <string name="hotseat_gradient_summary">Ενεργοποίηση μιας λεπτής διαβάθμισης από την κεντρική οθόνη του launcher</string>
+    <!-- Trust apps -->
+    <string name="trust_apps_manager_name">Κρυφές εφαρμογές</string>
+    <string name="trust_apps_auth_manager">Ξεκλειδώστε για να διαχειριστείτε τις κρυφές εφαρμογές</string>
+    <string name="trust_apps_loading">Φόρτωση\u2026</string>
+    <string name="trust_apps_no_lock_error">Μπορείτε να ορίσετε ένα ασφαλές κλείδωμα οθόνης για να περιορίσετε την πρόσβαση στις εφαρμογές</string>
+    <string name="trust_apps_help">Βοήθεια</string>
+    <string name="trust_apps_info_hidden">Οι κρυφές εφαρμογές και τα γραφικά τους αποκρύπτονται από το μενού</string>
 </resources>
