@@ -64,4 +64,6 @@
     <string name="trust_apps_no_lock_error">Pro omezení přístupu k aplikaci prosím nastavte zabezpečenou obrazovku uzamčení</string>
     <string name="trust_apps_help">Nápověda</string>
     <string name="trust_apps_info_hidden">Takto označené aplikace jsou skryty, včetně jejich widgetů, ze seznamu aplikací</string>
+    <!-- Icon size -->
+    <string name="icon_size_title">Velikost ikon</string>
 </resources>
