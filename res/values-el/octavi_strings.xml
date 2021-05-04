@@ -64,4 +64,6 @@
     <string name="trust_apps_no_lock_error">Μπορείτε να ορίσετε ένα ασφαλές κλείδωμα οθόνης για να περιορίσετε την πρόσβαση στις εφαρμογές</string>
     <string name="trust_apps_help">Βοήθεια</string>
     <string name="trust_apps_info_hidden">Οι κρυφές εφαρμογές και τα γραφικά τους αποκρύπτονται από το μενού</string>
+    <!-- Icon size -->
+    <string name="icon_size_title">Μέγεθος εικονιδίου</string>
 </resources>
