@@ -64,4 +64,6 @@
     <string name="trust_apps_no_lock_error">Vui lòng thiết lập màn hình khóa an toàn để hạn chế quyền truy cập ứng dụng</string>
     <string name="trust_apps_help">Trợ giúp</string>
     <string name="trust_apps_info_hidden">Các ứng dụng ẩn và các tiện ích con của chúng được ẩn khỏi ngăn kéo</string>
+    <!-- Icon size -->
+    <string name="icon_size_title">Kích cỡ biểu tượng</string>
 </resources>
