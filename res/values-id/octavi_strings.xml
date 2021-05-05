@@ -64,4 +64,6 @@
     <string name="trust_apps_no_lock_error">Silakan mengatur kunci layar aman untuk membatasi akses aplikasi</string>
     <string name="trust_apps_help">Bantuan</string>
     <string name="trust_apps_info_hidden">Aplikasi tersembunyi dan widget mereka akan disembunyikan</string>
+    <!-- Icon size -->
+    <string name="icon_size_title">Ukuran ikon</string>
 </resources>
